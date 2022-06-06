@@ -31,7 +31,7 @@ section.section-paginaInicial{
     justify-content: center;
     text-align: center;
 
-    background-image: url(../images/tunel-colorido.jpg);
+    background-image: url(../images/lampada.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -45,7 +45,7 @@ section.section-paginaInicial{
         display: flex;
         justify-content: center;
         text-align: center;
-        background-image: url(../images/mundo_e_montanhas.jpg);
+        background-image: url(../images/lampada2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -58,7 +58,7 @@ section.section-paginaInicial{
         display: flex;
         justify-content: center;
         text-align: center;
-        background-image: url(../images/miranha.jpg);
+        background-image: url(../images/fogueira.jpg);
 
         background-size: cover;
         background-repeat: no-repeat;
